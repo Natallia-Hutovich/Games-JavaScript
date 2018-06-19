@@ -1,1 +1,1 @@
-# Games-JavaScript
+Online JavaScript Games
